@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/kblocks-23.04.1.tar.xz",
-                    "sha256": "b3848f277ec0b4fb32f5dda0d49ce6645bc174e10881b0e2dbe3be2db22ca580",
+                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/kblocks-23.04.2.tar.xz",
+                    "sha256": "5d4d03706d42a073e910410e71b17fd83bb09bb4c71d319ccbbc8ab177d6d7f8",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
