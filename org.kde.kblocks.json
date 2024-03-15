@@ -6,11 +6,11 @@
     "command": "kblocks",
     "rename-icon": "kblocks",
     "finish-args": [
+        "--device=dri",
         "--share=ipc",
-        "--socket=x11",
-        "--socket=wayland",
+        "--socket=fallback-x11",
         "--socket=pulseaudio",
-        "--device=dri"
+        "--socket=wayland"
     ],
     "modules": [
         {
